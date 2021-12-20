@@ -31,7 +31,7 @@
 </div>
 <div class="content">
   <p class="header1"><?php echo $_SESSION["client"]; ?> hh</p>
-  <p>"Are you looking for a property for buying, renting or do you have any property for sale. Dont be faked we are the best dealeres when it comes to property management." </p>
+  <p>"Are you looking for a property for buying, renting or do you have any property for sale. Don't be faked we are the best dealeres when it comes to property management." </p>
   <form action="makeVisit.php" method="POST">
 		<label>Choose Property</label><br/>
 			<select name="property">
